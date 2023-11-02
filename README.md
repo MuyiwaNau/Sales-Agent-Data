@@ -26,7 +26,7 @@ The  dataset used for this analysis are
         https://finch-groundhog-9245.squarespace.com/s/product.csv
         
 # Tools
-Excel - Data Cleaning
+Excel - Data Cleaning - 
 Tableau - Creating reports
 
 # Data Cleaning/Preparation
